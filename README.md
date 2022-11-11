@@ -1,2 +1,2 @@
-# Python Red Team 🐍👨🏻‍💻
+# Black Hat Python 🐍👨🏻‍💻
 Python Scripts for hacking 
