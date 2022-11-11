@@ -1,2 +1,2 @@
-# python-red-team
+# python-red-team 🐍👨🏿‍💻
 Scripts Python for hacking 
